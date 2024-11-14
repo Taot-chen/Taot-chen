@@ -18,11 +18,6 @@ welcome to my GitHub Page. I am Chen Taot and now an engineer, I learn new thing
 ![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taot-chen&show_icons=true&theme=tokyonight)
 
 
-:penguin: Activity Graph 📈
-
-![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Taot-chen&theme=xcode)
-
-
 :penguin: Top Languages Card :card_index:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taot-chen&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact)
@@ -38,6 +33,10 @@ welcome to my GitHub Page. I am Chen Taot and now an engineer, I learn new thing
 <a href="https://github.com/Taot-chen/raspberrypi_dl">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Taot-chen&repo=raspberrypi_dl&theme=default" />
  
+
+:penguin: Activity Graph 📈
+
+![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Taot-chen&theme=xcode)
 
 
 ## GitHub Profile Trophy 🏆

@@ -10,6 +10,12 @@ welcome to my GitHub Page. I am Chen Taot and now an engineer, I learn new thing
 
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taot-chen/Taot-chen/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taot-chen/Taot-chen/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Taot-chen/Taot-chen/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ## Github stats 📊
 

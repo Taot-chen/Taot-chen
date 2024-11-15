@@ -45,9 +45,6 @@ welcome to my GitHub Page. I am Chen Taot and now an engineer, I learn new thing
 ![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Taot-chen&theme=xcode)
 
 
-📕 &nbsp;**Latest Blog Posts**
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Profile Trophy 🏆
 
